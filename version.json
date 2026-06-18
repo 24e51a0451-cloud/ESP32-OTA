@@ -1,10 +1,4 @@
 {
- "version":"1.0.9",
-
- "firmware_url":
- "https://24e51a0451-cloud.github.io/ESP32-OTA/firmware.bin",
-
- "release_date":"2026-06-18",
-
- "description":"MQTT QoS improvements"
+  "version":"1.0.1",
+  "firmware":"https://raw.githubusercontent.com/YOUR_USERNAME/ESP32_OTA/main/firmware.bin"
 }
